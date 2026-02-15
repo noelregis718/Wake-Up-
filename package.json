@@ -2,6 +2,15 @@
   "name": "wakeup",
   "version": "0.0.1",
   "private": true,
+  "author": "Noel Regis <noelregis718@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noelregis718/Wake-Up.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noelregis718/Wake-Up/issues"
+  },
+  "homepage": "https://github.com/noelregis718/Wake-Up#readme",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
